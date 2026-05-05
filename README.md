@@ -34,14 +34,13 @@ Seguir creciendo en el desarrollo de software, adquirir experiencia y convertirm
 
 ---
 
-✨ Gracias por visitar mi perfil
 
 ## 📌 Perfil
 - **Nombre:** Luis Eduardo Buitrago Pascuas
 - **GitHub:** [@luisbuitrago-hub](https://github.com/luisbuitrago-hub)
 - **Email:** [luisbuitragopascuas@gmail.com](mailto:luisbuitragopascuas@gmail.com)
 - **Organización institucional:** [code-sena](https://github.com/code-sena)
-
+✨ Gracias por visitar mi perfil
 ---
 
 ## 🚀 Repositorio institucional
