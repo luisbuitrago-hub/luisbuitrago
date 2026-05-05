@@ -16,7 +16,7 @@ CODE_ORGANIZATION: code-sena
 
 ## 📌 Perfil
 - **Nombre:** Luis Eduardo Buitrago Pascuas
-- **GitHub:** [@luisbuitrago](https://github.com/luisbuitrago-hub)
+- **GitHub:** [@luisbuitrago-hub](https://github.com/luisbuitrago-hub)
 - **Email:** [luisbuitragopascuas@gmail.com](mailto:luisbuitragopascuas@gmail.com)
 - **Organización institucional:** [code-sena](https://github.com/code-sena)
 
